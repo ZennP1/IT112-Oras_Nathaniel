@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+
+    printf("🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡\n");
+    printf("🂡                                  🂡\n");
+    printf("🂡      WELCOME TO MY CODE          🂡\n");
+    printf("🂡         C PROGRAMMING 1          🂡\n");
+    printf("🂡       ~READY - SET - DEBUG       🂡\n");
+    printf("🂡                                  🂡\n");
+    printf("🂡                                  🂡\n");
+    printf("🂡                                  🂡\n");
+    printf("🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡🂡\n");
+
+    return 0;
+}
